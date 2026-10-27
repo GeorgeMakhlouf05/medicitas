@@ -25,7 +25,7 @@ Implementar un módulo web (Blade) y una API JSON para gestionar citas médicas,
 ## Instalación
 
 ```bash
-git clone <URL_DEL_REPOSITORIO> medicitas
+git clone https://github.com/GeorgeMakhlouf05/medicitas
 cd medicitas
 composer install
 copy .env.example .env        # en Linux/macOS: cp .env.example .env
